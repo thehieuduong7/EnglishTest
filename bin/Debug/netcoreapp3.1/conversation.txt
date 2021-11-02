@@ -1,0 +1,83 @@
+100,1,1,adj
+Are you setting up a small business? Worried about the costs \nof renting office space and employing the right people?\nRebus Virtual Office World can help you. With our Basic Office Deal,\nwe can set up a virtual office for you practically overnight.\nWe will give your business a professional image and our polite, \nfriendly staff will handle your calls and present your business in the best possible way.\nWe can provide you with: a professional business address, a local phone number and we will also handle mail.\nFor a more personal approach, with the option of forwarding mail and messages to your home address,\ndon’t hesitate to ask us about our Premier Office Deals.
+,,0.25,
+Where is the text from?
+A message from a business to a current client & /An advertisement for a new business service & /An email from one business worker to another & /A newspaper article about a new business’s success & 
+A newspaper article about a new business’s success & 
+,,0.25,
+What does the service provide?
+Off-site staff to perform general office duties & /A site where several businesses can locate their offices & /Advice on how to make your business more professional & /Temporary staff for local businesses & 
+Temporary staff for local businesses & 
+,,0.25,
+Which of the following is not included in the Basic Office deal?
+A polite receptionist& /A mail-forwarding service & /A professional address & /A telephone-answering service & 
+A mail-forwarding service & 
+
+101,2,1,noun
+Dear Helen,\nI would like to congratulate you on organising such an excellent and informative workshop. \nI know a lot of people learnt a great deal from it.  Can you pass on my thanks to Doctor Friedman \nfor his fascinating talk on Staff Motivation?  I realise how lucky we were that he was able to find\nthe time for us.  The feedback from the staff was very positive.  \nLet’s hope we actually see an improvement in staff motivation as a result!\nBy the way, I’m missing my list of addresses of the delegates who attended.  Did I happen to leave it in your office?  It’s just that I haven’t seen it since our meeting on Friday.\nThanks again for a great day,\nAnne
+,,0.25,
+What is the main objective of the message?
+to inform& /to accuse& /to make a request& /to praise& 
+to praise& 
+,,0.25,
+What can be implied about the workshop?
+All the delegates were staff from the same office.& /It included several talks.& /It lasted one day.& /Motivation was the only topic discussed.& 
+All the delegates were staff from the same office.& 
+,,0.25,
+What can be implied about Dr Friedman?
+He works in the same office as Anne.& /He has a very busy schedule.& /He is a leading expert on staff motivation.& /Anne knows him better than Helen does.& 
+Anne knows him better than Helen does.& 
+,,0.25,
+What has happened to the address list?
+Anne has lost it.& /Anne has found it.& /Anne has sent it to Helen.& /Anne has completed it.& 
+Anne has sent it to Helen.& 
+
+102,3,1,verb
+Here’s a mouth-watering cookie recipe for you to try at home. You will need two cups each of \nmargarine, white sugar and brown sugar; four eggs, four cups of flour, 1 teaspoon of baking \npowder, a pinch of salt and a cup of milk chocolate chips. First of all, pre-heat the oven to \n350 degrees Fahrenheit. Take a large bowl and cream together the margarine and sugar until they\nare smooth.  Then add the eggs, one by one.  Sift the flour and baking powder into the mixture \nand add the salt. Finally add the chocolate chips.  Drop spoonfuls of the mixture onto ungreased\ncookie sheets and bake for eight to ten minutes until the edges are golden brown.  Cool for one hour before eating.
+,,0.25,
+Which of the following is NOT an ingredient in the recipe?
+cream& /flour& /eggs& /margarine& 
+flour& 
+,,0.25,
+What must the cook do first?
+Put the margarine and sugar in a bowl& /Turn on the oven& /Sift the flour& /Break the eggs& 
+Turn on the oven& 
+,,0.25,
+Which of the following items is needed to make this recipe?
+a microwave& /a sieve& /a saucepan& /a knife& 
+a knife& 
+,,0.25,
+Which of the following ingredients is added last?
+salt& /baking powder& /chocolate chips& /eggs& 
+eggs& 
+
+103,1,1,adj
+Are you setting up a small business? Worried about the costs \nof renting office space and employing the right people?\nRebus Virtual Office World can help you. With our Basic Office Deal,\nwe can set up a virtual office for you practically overnight.\nWe will give your business a professional image and our polite, \nfriendly staff will handle your calls and present your business in the best possible way.\nWe can provide you with: a professional business address, a local phone number and we will also handle mail.\nFor a more personal approach, with the option of forwarding mail and messages to your home address,\ndon’t hesitate to ask us about our Premier Office Deals.
+,,0.25,
+Where is the text from?
+A message from a business to a current client & /An advertisement for a new business service & /An email from one business worker to another & /A newspaper article about a new business’s success & 
+A newspaper article about a new business’s success & 
+,,0.25,
+What does the service provide?
+Off-site staff to perform general office duties & /A site where several businesses can locate their offices & /Advice on how to make your business more professional & /Temporary staff for local businesses & 
+Temporary staff for local businesses & 
+,,0.25,
+Which of the following is not included in the Basic Office deal?
+A polite receptionist& /A mail-forwarding service & /A professional address & /A telephone-answering service & 
+A mail-forwarding service & 
+
+104,3,1.5,verb
+Are you setting up a small business? Worried about the costs \nof renting office space and employing the right people?\nRebus Virtual Office World can help you. With our Basic Office Deal,\nwe can set up a virtual office for you practically overnight.\nWe will give your business a professional image and our polite, \nfriendly staff will handle your calls and present your business in the best possible way.\nWe can provide you with: a professional business address, a local phone number and we will also handle mail.\nFor a more personal approach, with the option of forwarding mail and messages to your home address,\ndon’t hesitate to ask us about our Premier Office Deals.
+,,0.5,
+Where is the text from?
+A message from a business to a current client & /An advertisement for a new business service & /An email from one business worker to another & /A newspaper article about a new business’s success & 
+A newspaper article about a new business’s success & 
+,,0.5,
+What does the service provide?
+Off-site staff to perform general office duties & /A site where several businesses can locate their offices & /Advice on how to make your business more professional & /Temporary staff for local businesses & 
+Temporary staff for local businesses & 
+,,0.25,
+Which of the following is not included in the Basic Office deal? 
+A polite receptionist& /A mail-forwarding service & /A professional address & /A telephone-answering service & 
+A mail-forwarding service & 
+

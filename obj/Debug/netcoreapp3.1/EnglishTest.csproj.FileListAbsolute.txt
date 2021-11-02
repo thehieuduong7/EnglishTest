@@ -1,0 +1,13 @@
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\obj\Debug\netcoreapp3.1\EnglishTest.csprojAssemblyReference.cache
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\obj\Debug\netcoreapp3.1\EnglishTest.AssemblyInfoInputs.cache
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\obj\Debug\netcoreapp3.1\EnglishTest.AssemblyInfo.cs
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\obj\Debug\netcoreapp3.1\EnglishTest.csproj.CoreCompileInputs.cache
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\bin\Debug\netcoreapp3.1\EnglishTest.exe
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\bin\Debug\netcoreapp3.1\EnglishTest.deps.json
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\bin\Debug\netcoreapp3.1\EnglishTest.runtimeconfig.json
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\bin\Debug\netcoreapp3.1\EnglishTest.runtimeconfig.dev.json
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\bin\Debug\netcoreapp3.1\EnglishTest.dll
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\bin\Debug\netcoreapp3.1\EnglishTest.pdb
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\obj\Debug\netcoreapp3.1\EnglishTest.dll
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\obj\Debug\netcoreapp3.1\EnglishTest.pdb
+F:\Hieu BK\Work\Script\cSharp\EnglishTest\obj\Debug\netcoreapp3.1\EnglishTest.genruntimeconfig.cache

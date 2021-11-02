@@ -1,0 +1,76 @@
+200,3,1,verb
+To: pmendoza@factmail.co\nFrom: recruiting@analystsassoc.org\nDate: May 2\nSubject: Joining ASA\n\nDear Mr. Mendoza,\n\nThank you for expressing your interest in our organization during the recent __(1)__ . It was a pleasure meeting\n\nyou at the ASA booth during the Weber Information Systems Convention. As you may recall from our\nconversation, we discussed how ASA membership __(2)__ your career through networking opportunities as well\nas the industry insights offered in our monthly newsletter. The normal fee for members is just $120 a year;\nhowever, we are currently offering a new-member discount. __(3)__ . If you are still interested in joining, please\nreply to __(4)__ with your mailing address. I will then forward you an application packet.\n\nSincerely,\n\nAshlee Loren, President\nAssociation of Systems Analysts
+,,0.25,
+...(1)...?
+election& /broadcast& /conference& /performance& 
+performance& 
+,,0.25,
+...(2)...?
+can benefit& /is benefiting& /has benefited& /will have benefited& 
+will have benefited& 
+,,0.25,
+...(3)...?
+Discounts on rental cars are included in the annual membership& /Our jobs board is quite comprehensive& /We are the first organization of our kind& /This month you can join for just half the usual rate& 
+This month you can join for just half the usual rate& 
+,,0.25,
+...(4)...?
+it& /methem& /anyone& /that & 
+anyone& 
+
+201,5,1.5,noun
+To: Sam Heinz\nFrom: Northways Professional Development\nSent: April 20\nSubject: Workshop 4/28-4/30\n\nDear Workshop Participants,\n\nWe look forward to seeing you at the digital storytelling workshop. On the first day,\nwhen you enter the Albin College campus, attendants will __(1)__ you to lot 43 and the Toteman Building.\nWe will begin each day in conference room 9.\nCoffee, tea, snacks, and fruit __(2)__ in the mornings. Lunch will be sandwiches and salads from Black Horse Restaurant. __(3)__ .\n\nIn the afternoons, we will be working in the computer lab. We suggest that you assemble some images \nthat you would like to use for your project. It will be __(4)__ for you to have \nthem saved on a digital storage device beforehand. If you have any questions, please e-mail us.\n\nVery Best,\nGina Kapuski\n
+,,0.25,
+__(1)__?
+offer& /direct& /pass& /instruct& 
+instruct& 
+,,0.5,
+__(2)__?
+will be provided& /were provided& /providers& /are providing& 
+are providing& 
+,,0.25,
+__(3)__?
+Some prior experience working with digital files is assumed& /Please do not bring any copyrighted material to the workshop& /Please let us know if you have any dietary restrictions& /There is a one-time parking charge of fifteen dollars& 
+There is a one-time parking charge of fifteen dollars& 
+,,0.5,
+__(4)__?
+useful& /surprised& /difficult& /amazing& 
+amazing& 
+
+202,4,1,adj
+To: pmendoza@factmail.co\nFrom: recruiting@analystsassoc.org\nDate: May 2\nSubject: Joining ASA\n\nDear Mr. Mendoza,\n\nThank you for expressing your interest in our organization during the recent __(1)__ . It was a pleasure meeting\n\nyou at the ASA booth during the Weber Information Systems Convention. As you may recall from our\nconversation, we discussed how ASA membership __(2)__ your career through networking opportunities as well\nas the industry insights offered in our monthly newsletter. The normal fee for members is just $120 a year;\nhowever, we are currently offering a new-member discount. __(3)__ . If you are still interested in joining, please\nreply to __(4)__ with your mailing address. I will then forward you an application packet.\n\nSincerely,\n\nAshlee Loren, President\nAssociation of Systems Analysts
+,,0.25,
+...(1)...?
+election& /broadcast& /conference& /performance& 
+performance& 
+,,0.25,
+...(2)...?
+can benefit& /is benefiting& /has benefited& /will have benefited& 
+will have benefited& 
+,,0.25,
+...(3)...?
+Discounts on rental cars are included in the annual membership& /Our jobs board is quite comprehensive& /We are the first organization of our kind& /This month you can join for just half the usual rate& 
+This month you can join for just half the usual rate& 
+,,0.25,
+...(4)...?
+it& /methem& /anyone& 
+anyone& 
+
+203,4,1,verb
+Nylobe, Inc., Announces Newest Development Project\n\nSEATTLE (May 1 ) - Researchers at technology firm Nylobe, Inc., are working to develop a sensor\ncapable of detecting corrosion caused by environmental exposure. Corrosion is a major contributor \nto __(1)__ losses in the aircraft industry each year. "This will be a major __(2)__ for commercial\nairline fleets," says Mel Laveau, Nylobe's CEO. "The sensor will decrease both labor and maintenance \ncosts without being too expensive."\n\nAccording to Ms. Laveau, the sensor will work by detecting corrosion in its early stages, when the \nproblem can be corrected simply by removing the corroded material. __(3)__ . In the structure of \nlarge aircraft, some critical joints can be particularly susceptible to corrosion. __(4)__ , the \nsensor can be used to inspect these areas and then target the most likely areas of concern.
+,,0.25,
+__(1)__
+financially& /financed& /financial& /finances& 
+financially& 
+,,0.25,
+__(2)__
+balance& /examination& /expectation& /asset& 
+expectation& 
+,,0.25,
+__(3)__
+This will reduce the need for making expensive structural repairs& /The parts have all been replaced with higher quality materials& /The next stage of the project involves scanning the affected areas& /Its style and sleek design made it popular with the public& 
+Its style and sleek design made it popular with the public& 
+,,0.25,
+__(4)__
+Meanwhile& /Similarly& /Otherwise& /Fortunately& 
+Meanwhile& 
+

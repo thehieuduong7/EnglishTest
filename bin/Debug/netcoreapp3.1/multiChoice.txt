@@ -1,0 +1,154 @@
+1,3,0.25,noun
+I wish I _____ those words. But now it's too late ?
+not having said & /have never said& /never said & /had never said & 
+have never said & 
+
+2,3,0.25,noun
+I'm very happy _____ in India. I really miss being there ?
+to live &ex love /to have lived &ex fuck you /to be lived &ex loving you /to be living &ex last answer 
+to live &ex love 
+
+3,1,0.25,adv
+They didn't reach an agreement ______ their differences ?
+on account of & /due & /because & /owing & 
+owing & 
+
+4,5,0.25,verb
+The woman, who has been missing for 10 days, is believed _____?
+to be abducted& /to be abducting & /to have been abducted & /to have been abducting &
+to have been abducted & 
+
+5,1,0.25,noun
+She was working on her computer with her baby next to _____?
+herself& /her& /her own& /hers &
+herself& 
+
+6,1,0.25,verb
+_____ to offend anyone, she said both cakes were equally good?
+Not wanting & /As not wanting& /She didn't want& /Because not wanting & 
+Because not wanting & 
+
+7,2,0.25,adj
+_____ in trying to solve this problem. It's clearly unsolvable ?
+There's no point& /It's no point& /There isn't point& /It's no need& 
+It's no point& 
+
+8,3,0.25,noun
+Last year, when I last met her, she told me she _____ a letter every day for the last two months ?
+had written& /has written& /had been writing& /wrote& 
+has written& 
+
+9,4,0.25,verb
+He _____ robbed as he was walking out of the bank ?
+had& /did& /got& /were &
+were &
+
+10,0,0.25,love
+_____ forced to do anything. He acted of his own free will ?
+In no way was he& /No way he was& /In any way he was& /In any way was he& 
+In any way was he& 
+
+11,0,0.25,noun
+It _____ the best idea to pay for those tickets by credit card. It was too risky ?
+may not have been& /may not be& /might not be& /must not have been& 
+may not be& 
+
+12,0,0.25,noun
+They _____ in the basement for three months ?
+were made sleeping& /were made sleep& /were made to sleep& /made to sleep& 
+were made sleeping& 
+
+13,1,0.25,verb
+We'll never know what might have happened _____ the email earlier ?
+if he sent& /had he sent& /if he has sent& /did he sent& 
+if he sent& 
+
+14,2,0.25,adj
+If success _____, we need to prepare ourselves for every possible scenario ?
+is to be achieved& /is achieved& /will be achieved& /is due to achieve& 
+is due to achieve& 
+
+15,3,0.25,verb
+______ gifts to the judges ?
+It's not allowed offering& /It's not permitted to offer& /It's not permitted offering& /It's not allowed to offer& 
+It's not permitted to offer& 
+
+16,3,0.25,verb
+I ______ bus on Mondays ?
+'m going to work with& /'m going to work by& /go to work with& /go to work by& 
+go to work by& 
+
+17,2,0.25,noun
+Sorry, but this chair is ______?
+me& /mine& /my& /our& 
+my& 
+
+18,1,0.25,verb
+I ______ to the cinema?
+not usually go& /don't usually go& /don't go usually& /do not go usually& 
+do not go usually& 
+
+19,4,0.25,adj
+Where ______ ?
+your sister works& /your sister work& /does your sister work& /do your sister work& 
+your sister work& 
+
+20,2,0,25,noun
+The test is ______ February ?
+in& /at& /on& /over& 
+on& 
+
+21,3,0.25,noun
+I eat pasta ______ week ?
+twice in a& /twice a& /one time a& /once in a& 
+once in a& 
+
+22,4,0.25,noun
+I don't have ______ free time ?
+many& /any& /a lot& /some& 
+some& 
+
+23,5,0.25,verb
+A: '_____ to the cinema tomorrow?'
+We will go& /Do we go& /We go& /Shall we go& 
+We will go& 
+
+24,1,0.25,verb
+We went to the market ______ some vegetables ?
+to buy& /for buy& /for to buy& /for buying& 
+for to buy& 
+
+25,2,0.25,noun
+Sorry, but when you called I ______ a shower?
+had& /did have& /was having& /were having& 
+did have& 
+
+26,2,0.25,noun
+______ are very friendly and very intelligent ?
+Dolphins& /The dolphins& /dolphin& /The dolphin& 
+dolphin& 
+
+26,2,0.25,noun
+Somebody stole ______ yesterday ?
+the car of my mother& /my car mother& /my mother's car& /my mother car &
+the car of my mother& 
+
+27,1,0.25,verb
+______ with me ?
+Do you like to dance& /Would you like to dance& /Do you like dance& /Would you like dancing& 
+Would you like dancing& 
+
+28,2,0.25,noun
+She is ______ her sister, I think ?
+more happier than& /more happy that& /happier that& /happier than& 
+happier that& 
+
+29,1,0.25,adj
+I couldn't eat ______ before the exam?
+nothing& /anything& /everything& /something& 
+something& 
+
+30,4,0.25,noun
+Please, pass me the remote. ______ TV?
+I'm watching& /I will watch& /I'm going to watch& /I might watch& 
+I'm going to watch& 
